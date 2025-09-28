@@ -1,0 +1,15 @@
+package com.shristi.training;
+
+class A{}
+class B{}
+class C{
+	public static void main(String[] args) {
+		System.out.print("welcome ");
+		System.out.println("hello");
+		System.out.println("Hi");
+	}
+}
+public class Demo {
+
+
+}

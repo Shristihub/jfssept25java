@@ -1,0 +1,6 @@
+package college.cse.it;
+import college.ece.Staff;
+
+public class Projects {
+
+}
