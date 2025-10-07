@@ -2,7 +2,7 @@ package com.oops.basics;
 
 /*
  * create a class Product with name, price, brand, id
- * add a paramterized constructor
+ * add a parameterized constructor
  * add one method printInfo to rpint details
  * add next method 
  *   String[] showModels(String brand){
