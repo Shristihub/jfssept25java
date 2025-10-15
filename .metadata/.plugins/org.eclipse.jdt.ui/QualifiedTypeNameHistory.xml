@@ -2,4 +2,29 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="college.ece.Staff"/>
     <fullyQualifiedTypeName name="college.Admin"/>
+    <fullyQualifiedTypeName name="com.oops.basics.Employee"/>
+    <fullyQualifiedTypeName name="com.oops.basics.Student"/>
+    <fullyQualifiedTypeName name="com.oops.basics.Book"/>
+    <fullyQualifiedTypeName name="com.oops.overload.Shape"/>
+    <fullyQualifiedTypeName name="com.oops.overload.VarArgsDemo"/>
+    <fullyQualifiedTypeName name="com.oops.inher.Employee"/>
+    <fullyQualifiedTypeName name="com.oops.inher.Manager"/>
+    <fullyQualifiedTypeName name="com.oops.overload.ThisDemo"/>
+    <fullyQualifiedTypeName name="com.oops.overload.Vehicle"/>
+    <fullyQualifiedTypeName name="com.oops.sup.Vehicle"/>
+    <fullyQualifiedTypeName name="com.oops.sup.Car"/>
+    <fullyQualifiedTypeName name="com.oops.override.Employee"/>
+    <fullyQualifiedTypeName name="com.oops.override.Developer"/>
+    <fullyQualifiedTypeName name="com.oops.override1.Course"/>
+    <fullyQualifiedTypeName name="com.oops.override.Manager"/>
+    <fullyQualifiedTypeName name="com.oops.exercises.Vehicle"/>
+    <fullyQualifiedTypeName name="com.oops.exercises.Car"/>
+    <fullyQualifiedTypeName name="com.oops.exercises.Bike"/>
+    <fullyQualifiedTypeName name="com.oops.abs.GroupOne"/>
+    <fullyQualifiedTypeName name="com.oops.abs.GroupTwo"/>
+    <fullyQualifiedTypeName name="com.oops.abs.TeamLead"/>
+    <fullyQualifiedTypeName name="com.oops.abs1.Bank"/>
+    <fullyQualifiedTypeName name="com.oops.abs1.Branch1"/>
+    <fullyQualifiedTypeName name="com.oops.abs1.SubBranch"/>
+    <fullyQualifiedTypeName name="com.oops.abs1.Branch2"/>
 </qualifiedTypeNameHistroy>
