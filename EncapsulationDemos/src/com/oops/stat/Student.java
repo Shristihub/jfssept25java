@@ -19,6 +19,10 @@ public class Student {
 		System.out.println("Great Day");
 	}
 	static void call() {
-		System.out.println("calling");
+		System.out.println("calling Student");
 	}
 }
+
+
+
+

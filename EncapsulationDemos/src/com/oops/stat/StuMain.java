@@ -9,15 +9,18 @@ public class StuMain {
 	}
 
 	public static void main(String[] args) {
-		out.println("main");
-		Student.call();
-		// imported the static member
-		printMessage();
-		System.out.println(collegeName);
-		System.out.println(Student.subjects);
+//		out.println("main");
+//		Student.call();
+//		// imported the static member
+//		printMessage();
+//		System.out.println(collegeName);
+//		System.out.println(Student.subjects);
+//		
+//		 int x = parseInt("100");
+//		 System.out.println(x);
+//		 Student.call();
+		 
 		
-		 int x = parseInt("100");
-		 System.out.println(x);
 	}
 }
 
