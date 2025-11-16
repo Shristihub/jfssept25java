@@ -12,7 +12,7 @@ public class Passenger {
 		counter1.joinThread();
 		counter2.joinThread();
 		counter3.joinThread();
-		
+				
 		
 		System.out.println("Booking completed");
 	}
