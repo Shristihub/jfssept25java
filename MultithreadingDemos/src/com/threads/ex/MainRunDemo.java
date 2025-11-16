@@ -12,6 +12,8 @@ class Runner implements Runnable{
 	@Override
 	public void run() {
 		System.out.println("hello ");
+		Greeter greeter =  new Greeter();
+		System.out.println(greeter.greetUser(name));
 	}
 }
 public class MainRunDemo {
