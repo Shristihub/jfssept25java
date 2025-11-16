@@ -6,7 +6,7 @@ public class HdBank {
 		super();
 		this.balance = balance;
 	}
-	void withdraw(double amount) throws ExceedingLimitsException, MinBalanceException {
+	void withdraw(double amount) throws ExceedingLimitsException,MinBalanceException {
 		System.out.println("In HD Bank");
 		try {
 			if (amount > 5000)
