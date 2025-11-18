@@ -5,7 +5,13 @@ public class Bank {
 	public double calcInterest(String name, double amount) {
 		System.out.println("Interest cal for "+name);
 		double interest = (amount*3*5)/100;
-		System.out.println("Interest "+interest);
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println("Work done "+interest);
 		return interest;
 	}
 	
