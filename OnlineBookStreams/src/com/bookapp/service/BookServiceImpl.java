@@ -16,22 +16,16 @@ public class BookServiceImpl implements IBookService{
 
 	@Override
 	public List<Book> getByAuthorContains(String author) throws BookNotFoundException {
-		List<Book> books  = BookUtil.showBooks();
-		//create temporary list to store books by author
-		// iterate and check for author 
-		
-		//if list is empty throw exception
+//		   get the books from bookutil class
+//		convert to stream, check for author, filter
+//		sort by title using sorted method 
+//     convert back to list
+//	   if list is empty throw exception
 		return null;
 	}
 
 	@Override
 	public List<Book> getByCategory(String category) throws BookNotFoundException {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public List<Book> getByPriceLessThan(double price) throws BookNotFoundException {
 		// TODO Auto-generated method stub
 		return null;
 	}
@@ -50,6 +44,24 @@ public class BookServiceImpl implements IBookService{
 
 	@Override
 	public Book getById(int bookId) throws BookNotFoundException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public int getCountOfBooksByAuthor(String author) throws BookNotFoundException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double getTotalPrice(String category) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public List<String> getByPriceLessThan(double price) throws BookNotFoundException {
 		// TODO Auto-generated method stub
 		return null;
 	}

@@ -12,7 +12,7 @@ public class Book {
 	private LocalDate datePublished;
 	
 	//default and para constructor
-	  //default constructor, parameterized constructor, getter/setter, toString
-	//implement Comparable to sort books by title
+	 //default constructor, parameterized constructor, getter/setter, toString
+	
 
 }
